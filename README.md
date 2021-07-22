@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/jeswin-george-396b531a9/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Jeswin George" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Application with MERN**
+- 🔭 I’m currently working on **mobile app development with react native**
 
 - 🌱 I’m currently learning **Node js,Express**
 
