@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **mobile app development with react native**
 
-- 🌱 I’m currently learning **Node js,Express**
+- 🌱 I’m currently learning **React Native,express jss**
 
 - 📫 How to reach me **jeswinmyladoor@gmail.com**
 
