@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 , I'm Jeswin George</h1>
 <h3 align="center">An aspiring FullStack Developer</h3>
 
-<p align="left"> <a href="https://www.instagram.com/george__jeswin/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Jeswin George" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/jesw1n.george/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Jeswin George" /></a> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/jeswin-george-396b531a9/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Jeswin George" /></a> </p>
 
