@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 , I'm Jeswin George</h1>
-<h3 align="center">An aspiring FullStack Developer</h3>
+<h3 align="center">FullStack Developer | Artificial Intelligence Enthusiast</h3>
 
 <p align="left"> <a href="https://www.instagram.com/jesw1n.george/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Jeswin George" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native,express jss**
 
-- 📫 How to reach me **jeswinmyladoor@gmail.com**
+- 📫 How to reach me **jeswing.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
