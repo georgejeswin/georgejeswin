@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/jeswin-george-396b531a9/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Jeswin George" /></a> </p>
 
-- 🔭 I’m currently working on **mobile app development with react native**
+- 🔭 Full Stack **JavaScript Developer**
 
-- 🌱 I’m currently learning **React Native,express jss**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/georgejeswin/" target="_blank">github</a>
 
 - 📫 How to reach me **jeswing.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.facebook.com/profile.php?id=100006669106954" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/124/124010.svg" alt="jeswin george" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jesw1n.george/" target="blank"><img align='center' src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" alt="Jeswin George" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jeswin-george-396b531a9/" target="blank"><img align='center' src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="40" width="40" alt="Jeswin George" /></a>
 
 </p>
